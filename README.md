@@ -30,3 +30,21 @@
 ![Screenshot](assets-report/03.png)
 
 <br />
+
+### Practicum 4
+
+![Screenshot](assets-report/04.png)
+
+"Question"
+"If we press the "Next Article" button 5x (or exceed the total number of article pages), what will happen?"
+![Screenshot](assets-report/04.1.png)
+    It become error because the server couldn't find the next index
+
+"Modify gallery.tsx to handle this problem."
+![Screenshot](assets-report/04.2.png)
+
+"Add a "Previous Article" button, to display articles backwards."
+![Screenshot](assets-report/04.4.png)
+![Screenshot](assets-report/04.3.png)
+
+
