@@ -25,3 +25,8 @@
 
 <br />
 
+### Practicum 3
+
+![Screenshot](assets-report/03.png)
+
+<br />
