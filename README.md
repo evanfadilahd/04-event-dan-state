@@ -7,14 +7,21 @@
 | Kelas | TI - 3I |
 
 
-### Jawaban Soal 1
+### Practicum 1
 
-"Change the contents of the Home() code so that it appears as follows by utilizing the Profile() component that was created in step 1!"
-
-![Screenshot](assets-report/01.1.png)
-![Screenshot](assets-report/01.2.png)
-
-    What I learn from this task is that we can make an components and use it again easily.
-    Also, to reference image from external source (internet) I need a next.config.js configuration to process the image.
+![Screenshot](assets-report/01.png)
 
 <br />
+
+### Practicum 2
+
+"Try checking in the browser and see what happens?"
+![Screenshot](assets-report/02.png)
+
+"Explain why it is like that?"
+
+    We can see that the button name and the message contents is filled in the page.tsx.
+    It is like that because the button is having parameters and taking it from the page.tsx
+
+<br />
+

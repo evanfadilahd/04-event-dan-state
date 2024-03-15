@@ -1,4 +1,14 @@
 "use client";
+export function Button_2({messagecontents, buttonName}:{messagecontents:any, buttonName:any}) {
+    return (
+        <button
+            className="bg-blue-500 hover:bg-blue-700 text-white p-2 rounded"
+            onClick={() => alert(messagecontents)}>
+            {buttonName}
+        </button>
+    );
+}
+
 export default function Button_1() {
     // adding function to handle click button
     function handleClick() {
@@ -18,7 +28,7 @@ export default function Button_1() {
                 }
             }
         >
-            Ini tombol
+            This is Button
         </button>
     );
 }
