@@ -48,3 +48,24 @@
 ![Screenshot](assets-report/04.3.png)
 
 
+### Practicum 5
+
+![Screenshot](assets-report/05.png)
+
+    When we input a wrong answer for the animal, it will display message in the below of submit button.
+    If we input the correct answer, nothing happened
+
+
+![Screenshot](assets-report/05.1.png)
+
+"What is the difference between the first Form_2 function and the second?"
+
+    In the first form, there are State for fullName and handler for fullName when we change the First & Last Name
+    In the second form, there are no State and Handler. It is changed into normal variable.
+
+"Why is it necessary to delete the fullName state? What are the advantages?"
+
+    Because it is make a redundant state, if we not change it, it will make a bug in the application. 
+    The advantages is the application use less computing and become bug-free.
+
+<br />
