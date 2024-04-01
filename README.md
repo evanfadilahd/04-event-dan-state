@@ -50,11 +50,15 @@
 
 ### Practicum 5
 
+## Step 1
+
 ![Screenshot](assets-report/05.png)
 
     When we input a wrong answer for the animal, it will display message in the below of submit button.
     If we input the correct answer, nothing happened
 
+
+## Step 2
 
 ![Screenshot](assets-report/05.1.png)
 
@@ -69,3 +73,27 @@
     The advantages is the application use less computing and become bug-free.
 
 <br />
+
+### Practicum 6
+
+## Step 1
+
+![Screenshot](assets-report/06.png)
+
+    There is Panel that we can click and shows text.
+    If we click About the information about Almaty is displayed, and other way around.
+    But it only shows one of them.
+
+
+## Step 2
+
+![Screenshot](assets-report/06.1.png)
+![Screenshot](assets-report/06.2.png)
+
+"What is the purpose of writing key={to.email} on < Chat key={to.email} contact={to} / > ?"
+
+    To setting again the state, by telling react that if there are different receiver, it becomes a diferrent chat component that needs to create again from the start with data.
+
+"What is the function of the props key?"
+
+    To give direction to setting again the state, the key is the for differentiate receiver in the chat features.
